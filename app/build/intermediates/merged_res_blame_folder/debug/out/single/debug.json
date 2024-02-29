@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_gympackage.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/gympackage.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_gymicon.png.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/gymicon.png"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_fragment_gym_activities.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/fragment_gym_activities.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_list_package.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/list_package.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_fragment_trainer_list.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/fragment_trainer_list.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_home.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/home.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_frameback.jpg.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/frameback.jpg"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_list_gymactivity.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/list_gymactivity.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_fragment_gym_packageslist.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/fragment_gym_packageslist.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_gym_activities.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_gym_activities.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_splash.jpg.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/splash.jpg"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_trainerlist.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/trainerlist.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_logo.png.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/logo.png"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_trainers.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_trainers.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/anim_zoom.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/anim/zoom.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_gym_packages.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_gym_packages.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/layout_activity_registration.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_splashgym.png.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/splashgym.png"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_gymactivity.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/gymactivity.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_trainer.xml.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/trainer.xml"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/drawable_logout.png.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/drawable/logout.png"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.sunbeam.fitnessgym.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sunbeam.fitnessgym.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
